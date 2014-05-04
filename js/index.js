@@ -6,7 +6,7 @@ $(function(){
 		slide: slide,
 		change: slide
 	});
-	$("#rslider").slider("value", 50);
+	$("#rslider").slider("value", 0);
 });
 function slide()
 {
